@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/belt.png</file>
+        <file>image/circle.png</file>
+        <file>image/cutter.png</file>
+        <file>image/logo.png</file>
+        <file>image/miner.png</file>
+        <file>image/ne.mp3</file>
+        <file>image/rectangle.png</file>
+        <file>image/shop.png</file>
+        <file>image/starticon.jpg</file>
+        <file>image/trash.png</file>
+        <file>image/block.png</file>
+        <file>image/save.png</file>
+        <file>image/eraser.png</file>
+        <file>image/UL.png</file>
+        <file>image/UR.png</file>
+        <file>image/UD.png</file>
+        <file>image/RU.png</file>
+        <file>image/RL.png</file>
+        <file>image/RD.png</file>
+        <file>image/LU.png</file>
+        <file>image/DR.png</file>
+        <file>image/DU.png</file>
+        <file>image/LD.png</file>
+        <file>image/LR.png</file>
+        <file>image/DL.png</file>
+        <file>image/left.png</file>
+        <file>image/right.png</file>
+        <file>image/down.png</file>
+        <file>image/up.png</file>
+        <file>image/center1.png</file>
+        <file>image/center2.png</file>
+        <file>image/yuan.png</file>
+        <file>image/fang.png</file>
+        <file>image/cutL.png</file>
+        <file>image/cutR.png</file>
+        <file>image/cutD.png</file>
+        <file>image/cutU.png</file>
+        <file>image/back.jpg</file>
+        <file>image/win.jpg</file>
+        <file>image/gold.png</file>
+    </qresource>
+</RCC>
